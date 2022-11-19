@@ -8,6 +8,8 @@ oopuma2@mail.ru
 
 [telegram]: https://t.me/Alkedrz
 
+[yandex]: https://yandex.ru/
+
 telegram https://t.me/Alkedrz
 
 <!--
