@@ -6,6 +6,8 @@
 
 oopuma2@mail.ru
 
+[telegram]: https://t.me/Alkedrz
+
 telegram https://t.me/Alkedrz
 
 <!--
