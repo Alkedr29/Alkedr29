@@ -9,7 +9,6 @@
 
 [telegram]: https://t.me/Alkedrz
 
-[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />](https://t.me/Alkedrz)
 
 oopuma2@mail.ru
 
