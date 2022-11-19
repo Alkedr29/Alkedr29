@@ -9,6 +9,7 @@
 
 [telegram]: https://t.me/Alkedrz
 
+OR
 
 oopuma2@mail.ru
 
