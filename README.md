@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Data-Science+student)](https://git.io/typing-svg)
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]: https://t.me/Alkedrz
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/Alkedrz)
 
 [telegram]: https://t.me/Alkedrz
 
