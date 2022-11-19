@@ -11,12 +11,6 @@
 
 oopuma2@mail.ru
 
-
-[telegram]: https://t.me/Alkedrz
-
-
-telegram https://t.me/Alkedrz
-
 <!--
 **Alkedr29/Alkedr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
